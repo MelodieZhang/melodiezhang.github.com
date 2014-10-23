@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: Melodesign
+title: Melodie
 url: http://melodiezhang.github.com
 feed: /atom.xml
 author_info: <a href="http://melodiezhang.github.com/">Melodie</a>
