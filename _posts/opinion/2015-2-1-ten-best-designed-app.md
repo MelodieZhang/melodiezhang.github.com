@@ -21,7 +21,7 @@ description: 用心的产品就是让用户有为它主动写软文的冲动。
 ![image](http://ww1.sinaimg.cn/large/005X3pWTjw1ep6mv2fod9j30xc0m87bq.jpg)   
 前身为「食日谈」，变身黄油相机。 App 从一块黄油的 icon 就可以看出来它的独特；与一般的加水印加字的 App 不同，它只给出基本元素，让用户自行组合成水印，还引入了一些付费和免费的优质正版中文字库，可塑性很强，可玩性也很不错。这款 App 的「设计感」体现于其有意思的创意，在里面可以看到文艺青年们用点线面创作的一张张或文艺或逗比的照片，还可以 Ding 一下采用别人制作的水印拍照。还有，自己动手从排版和信息传达的角度去「设计」一张照片，这事儿本来就充满了「设计感」。不过后来知道国外的一款 App「Studio」早就有了类似的概念，可能黄油也有所借鉴吧。
 ###片刻（Android & iOS）
-![image](http://ww1.sinaimg.cn/large/005X3pWTjw1ep6mv2fod9j30xc0m87bq.jpg)  
+![image](http://ww1.sinaimg.cn/large/005X3q9sjw1ep6muv6vuej30xc0m8jwh.jpg)  
 片刻不是那种特别让人眼前一亮的 App，但很欣赏它安安静静地做内容的态度。还有启动页上那句话「世界很美，而你正好有空」，多好。
 ###果库（Android & iOS）
 ![image](http://ww3.sinaimg.cn/large/005X4kHAjw1ep6muyk48dj30xc0m8wkp.jpg)
