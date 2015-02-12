@@ -2,7 +2,7 @@
 layout:     post
 title:      十个国内有设计感的 APP 选荐
 category:   opinion
-description: 用心的产品就是让用户有为它主动写软文的冲动。
+description: 用心的产品就是让用户有主动为它写(sheng)软(hou)文(zi)的冲动。
 ---
 什么叫有设计感呢？我认为应该是具备以下的几个维度的条件：  
   
