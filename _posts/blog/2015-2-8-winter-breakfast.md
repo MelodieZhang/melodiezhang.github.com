@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      我的冬日元气早餐记录
+title:      冬日早餐记录
 category:   blog
-description: 好时光都是拿来挥霍的
+description: 南方冬天的早上，只有早餐能让我与被窝暂时分手
 --- 
   
 又到年关，整理旧文一篇，一年前的此时在家鼓捣的早餐心得。  

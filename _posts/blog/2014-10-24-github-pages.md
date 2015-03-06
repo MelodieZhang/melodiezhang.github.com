@@ -2,7 +2,7 @@
 layout:     post
 title:      Github Pages 建独立博客始末
 category:   blog
-description: 新的启航，开始努力写一个有价值的博客。
+description: 书写是为了更好的思考，新的起点
 ---
 
 

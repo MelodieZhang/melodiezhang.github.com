@@ -2,7 +2,7 @@
 layout:     post
 title:      设计师空余时间怎样自学？
 category:   design
-description: 自学心得分享
+description: 输入与输出都要有，分享个人设计学习的粗浅建议
 ---
 
 自认为算一个设计者，正努力成长为一名真正的设计师，分享一些个人粗浅的建议吧。
