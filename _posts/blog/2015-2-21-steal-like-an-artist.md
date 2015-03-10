@@ -11,7 +11,7 @@ description: AK said, "Some advice can be a vice."
 ![image](http://i3.tietuku.com/b2ef16b15e8f1c6d.jpg)    
 上图为作者 Austin Kleon，来源：作者本人博客  
 
-### 读书笔记
+## 读书笔记
 读第二遍时做了纸质版的笔记，把书中对我个人最有启发的整理在下面：  
 ![image](http://i3.tietuku.com/934fb19c8d368371.jpg)    
 
@@ -55,7 +55,7 @@ description: AK said, "Some advice can be a vice."
 
 
 
-###简易指南：现在该做些什么？
+##简易指南：现在该做些什么？
 * 散个步
   
 * 建立个人资料库
