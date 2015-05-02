@@ -17,11 +17,11 @@ description: 新浪微博也卡片化了，进步很多，槽点也不少。
 * 个人主页左侧生硬地被分割成独立的“关注/粉丝/微博”数  
 * 淘宝广告豆腐块
   
-![image](http://api.drp.io/files/547aacb55ed53.jpg)  
+![image](http://i2.tietuku.com/92a56eaaf5daa092.jpg)  
 
 这样做的一个最明显也是最糟糕的一个结果就是：当所有的东西都照一个样子被框起来后，信息失去了重点，并且多了许多不必要的间隙造成视觉干扰，就成了下面大家吐槽的样子：满屏都是缝~
 
-![image](http://api.drp.io/files/547aacdc9e5b6.png)  
+![image](http://i2.tietuku.com/ca14b1c30fb9ac6b.png)  
 
 ##业界当红炸子鸡 Card
 现在越来越多的网站开始使用卡片化的设计，这样做也是配合响应式网站的大趋势，实现跨平台的视觉、操作体验的统一。    
@@ -31,11 +31,11 @@ description: 新浪微博也卡片化了，进步很多，槽点也不少。
 随便举两个例子：  
 * Facebook  
 
-![image](http://api.drp.io/files/547aabfd99b9e.png)  
+![image](http://i2.tietuku.com/86c6afa1c438959f.png)  
   
 * Google+  
   
-![image](http://api.drp.io/files/547aac2ac044e.png)  
+![image](http://i2.tietuku.com/04783f7457ff4695.png)  
 
   
 国外采用 Card 样式的网站共有的一些特点：背景是优雅的灰色，不宣兵夺主；内容为王，feed 以图片为主；有选择地使用 Card（Card 与其他的形式结合），很难看到满屏都是各种大小 Card 的情况。  
@@ -49,7 +49,7 @@ description: 新浪微博也卡片化了，进步很多，槽点也不少。
   
 自己参考 G+ 把微博的背景换成了 #e5e5e5 纯色平铺，个人主页看上去舒服多了。  
   
-![image](http://api.drp.io/files/547aacff77944.png)  
+![image](http://i2.tietuku.com/b92c82aad988bc78.png)  
   
 ###feed 非图片主导，注意力容易被“缝隙”干扰
 Twitter、G+、Facebook 中包含图片的卡片中，图片都是以大图展示，吸引力很容易就被拉到 feed 信息上去。而微博的图片默认是小方块显示、九宫格，吸引力本来就弱，这时如果恰好碰上花色的背景从 feed 卡片间的缝隙漏过来，视觉噪音极大。  
@@ -59,7 +59,7 @@ Twitter、G+、Facebook 中包含图片的卡片中，图片都是以大图展�
   
 这一点我比较喜欢 Twitter 的做法。鼠标悬停每条 feed 时会有一个轻微的背景色变化，点击后才展开独立成一张卡片。 有重点，有变化。  
   
-![image](http://api.drp.io/files/547aad1bc02c4.jpg)  
+![image](http://i2.tietuku.com/2d76c33dd684749e.jpg)  
   
 ###卡片+卡顿？？
 看到不少反馈说 V6 卡得一“哔”（我用 safari 没有明显感受），如果真是这样的话，卡片和自定义背景本身造成的视觉不连贯+体验上的卡顿，还能愉快地刷微博么？~  
