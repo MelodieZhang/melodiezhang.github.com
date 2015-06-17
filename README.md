@@ -1,4 +1,3 @@
-##Melodie's Blog
+Personal page and blog of Shruti Rijhwani.
 
-源码来自[BeiYuu.com](http://beiyuu.com)，非常感谢:)
-
+Powered by [Jekyll](http://jekyllrb.com/) and currently uses the [Pixyll](http://www.pixyll.com) theme.
