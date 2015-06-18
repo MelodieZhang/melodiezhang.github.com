@@ -9,7 +9,7 @@ permalink: /contact/
 
   <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked form-light">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='_next' value='{{ site.url |}}/thankyou/' />
+  <input type='hidden' name='_next' value='{{ site.url }}/thankyou/' />
   <!-- all your input fields here.... -->
   <input type="text" name="email" class="input mobile-block" placeholder="Your Email Address">
     <textarea type="text" name="content" class="input mobile-block" rows="2" placeholder="What would you like to say?"></textarea>
