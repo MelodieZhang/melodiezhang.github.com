@@ -83,8 +83,9 @@ body {
   opacity: 1;
 }
 
-.site-nav a + a {
-  margin-left: 2.6em;
+.navibutton {
+  width: 5.65rem;
+  display: inline-block; // horizotal display
 }
 
 .site-nav {
@@ -414,7 +415,7 @@ h6,
 
 @media screen and (min-width: 48em) {
   .site-header .site-title {
-  
+
   }
 
   .meta,
@@ -452,7 +453,7 @@ h6,
   }
 
   .p,
-  p {  
+  p {
     margin-bottom: 1.4rem;
   }
 
@@ -501,7 +502,7 @@ h6,
   }
 
   .p,
-  p {  
+  p {
     margin-bottom: 1.4rem;
   }
 
