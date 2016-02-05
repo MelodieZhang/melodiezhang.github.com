@@ -15,7 +15,7 @@
 
 
 body {
-  font-family: 'Hiragino Sans GB','Microsoft YaHei','Open Sans','Helvetica Neue',Arial,'WenQuanYi Micro Hei',sans-serif;
+  font-family: '.PingFang-SC-Regular', 'Hiragino Sans GB','Microsoft YaHei','Open Sans','Helvetica Neue',Arial,'WenQuanYi Micro Hei',sans-serif;
 }
 
 html, body {
@@ -373,7 +373,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: 'Hiragino Sans GB','Microsoft YaHei','Open Sans','Helvetica Neue',Arial,'WenQuanYi Micro Hei',sans-serif;
+  font-family: '.PingFang-SC-Regular', 'Hiragino Sans GB','Microsoft YaHei','Open Sans','Helvetica Neue',Arial,'WenQuanYi Micro Hei',sans-serif;
   font-weight: 100;
   line-height: 1.2;
   margin: 1em 0 0.5em;
@@ -395,6 +395,9 @@ h6,
 }
 .social-icons a.fa-weibo:hover {
     color: #E51C34;
+}
+.sicial-icons a.fa-twitter:hover {
+    color: #59ADEB;
 }
 .social-icons a.fa-instagram:hover {
     color: #0A5886;
