@@ -25,15 +25,15 @@ summary:  2月份读到这本短小精悍的小书，第二遍时依旧爱不释
 
 2、任何时候都带着笔记本和笔，维护一个属于自己的资料库，随时存入来源于各处的启发与灵感。
 
->Fake it ’til you make it.
+>Fake it'til you make it.
 
 3、有创造力的人并不知道好的念头是从哪来的，他们只是在**日复一日的坚持**中收获了创造力。
 
-4、“偷窃”作品背后的思想，模仿你的偶像思考、解决问题的方式。
+4、「偷窃」作品背后的思想，模仿你的偶像思考、解决问题的方式。
 
 5、不要单一地复制，从多个大师身上抄袭、学习。
 
->Don’t throw any of yourself away.
+>Don't throw any of yourself away.
 
 6、写你自己爱看的书；设计你自己爱用的产品；做你自己满意的设计。
 
@@ -51,7 +51,7 @@ summary:  2月份读到这本短小精悍的小书，第二遍时依旧爱不释
 
 12、世界很小， **Be Nice**。和最有才华的人站在一起。
 
-13、Modern art = “I could do that” + “Yeah, but you did’t"。
+13、Modern art = 「I could do that」+ 「Yeah, but you did't」。
 
 14、**保持精力**在真正有价值的事情上，尽量减小其他日杂事物对自身的精力消耗。
 
@@ -80,11 +80,12 @@ summary:  2月份读到这本短小精悍的小书，第二遍时依旧爱不释
 
   
 AK 在书的开头和结尾都强调了一句话：  
-**Some advice can be a vice. ** 
+  
+> Some advice can be a vice. 
   
 因此，最重要的还是通过不断试错去找寻自己适用的生活、工作法则。 
   
-PS: 作者本人的博客上有更多书中未收录的 blackouts（不知道怎么翻译比较恰当），很有趣的一种阐述问题的方式，比如[“SLEEP NAKED” AND OTHER IPAD BLACKOUTS](http://austinkleon.com/2011/04/21/sleep-naked-and-other-ipad-blackouts/)    
+PS: 作者本人的博客上有更多书中未收录的 blackouts（不知道怎么翻译比较恰当），很有趣的一种阐述问题的方式，比如 [“SLEEP NAKED” AND OTHER IPAD BLACKOUTS](http://austinkleon.com/2011/04/21/sleep-naked-and-other-ipad-blackouts/)。
 
 
 
