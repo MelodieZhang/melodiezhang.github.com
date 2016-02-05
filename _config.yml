@@ -1,8 +1,8 @@
 # Site settings
 title:       Melodie
 email:       zhangmenghan728@gmail.com
-author:      Melodie
-description: "Melodie's blog"
+author:      Melodie Zhang
+description: "About product design, learning, reading and life."
 baseurl:     ""
 url:         "http://melodiezhang.com"
 timezone: Asia/Beijing
