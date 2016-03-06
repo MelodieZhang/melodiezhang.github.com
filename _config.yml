@@ -37,6 +37,9 @@ paginate:     5
 paginate_path: "/page:num/"
 sass:
   compressed: true
-gems :
+feed:
+  path: atom.xml
+gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
