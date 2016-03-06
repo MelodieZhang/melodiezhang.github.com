@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /about/
 ---
-![image](http://i3.tietuku.com/c975743c99ce9b77.jpg)  
+![image](http://7xldlp.com1.z0.glb.clouddn.com/blog%2Fimage%2FMelodie.JPG)  
 
 我是 Melodie，现在在[知乎](http://www.zhihu.com)做设计.   
 
