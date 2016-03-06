@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![image](http://7xldlp.com1.z0.glb.clouddn.com/blog%2Fimage%2FMelodie.JPG)  
 
-我是 Melodie，现在在[知乎](http://www.zhihu.com)做设计.   
+我是 Melodie，现在在[知乎](http://www.zhihu.com)做设计.  
 
   
 **Project**    
@@ -18,5 +18,4 @@ permalink: /about/
 **Contact**  
 如果有任何建议，欢迎发邮件到 zhangmenghan728@gmail.com.    
 
-如果您喜欢我的文章，并有开始使用 Dropbox 的计划，请通过我的 [Referral Link](https://db.tt/iVJyifmr) 注册 Dropbox，您和我都将获得 500MB 的额外免费存储空间，非常感谢 : )
 
