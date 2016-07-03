@@ -3,7 +3,7 @@ layout:     post
 title:      十个国内有设计感的 APP 选荐
 category:   []
 tags: [设计]
-published: True
+published: False
 date: 2015-02-1
 summary:  什么叫有设计感呢？我认为应该是具备以下的几个维度的条件。界面：UI 设计精美，界面每一处细节都精雕细琢，展现了 App 的独一无二，有些即使是「无用之美」，下载了也会舍不得删掉。内容/功能：精致的内容或独特的功能会自动提升一个 App 的气质。包括那些优良的图片编辑应用，如风靡的 VSCO Cam等...
 --- 
