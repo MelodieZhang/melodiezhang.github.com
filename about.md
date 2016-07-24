@@ -5,8 +5,8 @@ permalink: /about/
 ---
 ![image](http://7xldlp.com1.z0.glb.clouddn.com/DSCF2025s.png)  
   
-
-我是 Melodie | 张梦晗.
+  
+我是 Melodie / 张梦晗.
   
 
 最近喜欢这一句：   
