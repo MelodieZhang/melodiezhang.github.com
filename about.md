@@ -4,15 +4,16 @@ title:
 permalink: /about/
 ---
 ![image](http://7xldlp.com1.z0.glb.clouddn.com/DSCF2025s.png)  
+  
 
 我是 Melodie | 张梦晗.
-
+  
 
 最近喜欢这一句：   
 Think of nothing things, think of wind.  
 去想想无关紧要的事，去想想风吧.
 
-**Doing**
+**Doing**  
 设计 / 做面包 / 吉他 / 学 iOS 开发 / 阅读 / 芭蕾 / 画画
 
 **Project**    
