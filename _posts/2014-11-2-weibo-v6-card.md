@@ -2,7 +2,7 @@
 layout:     post
 title:      也聊新浪微博 V6 Web 端的卡片式设计
 category:   []
-tags: [设计]
+tags: [2014]
 published: False
 date: 2014-11-2
 summary:  Google 是怎么定义 Card 的？A card is a piece of paper that contains a unique data set of related, heterogeneous information, for example, a photo, text, and link all about a single subject...
