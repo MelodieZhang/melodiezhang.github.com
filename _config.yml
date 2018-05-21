@@ -1,14 +1,14 @@
 # Site settings
 title:       Melodie
 email:       zhangmenghan728@gmail.com
-author:      Melodie Zhang
-description: "About product design, learning, reading and life."
+author:      Menghan Zhang
+description: "Menghan Zhang's Portfolio"
 baseurl:     ""
-url:         "http://melodiezhang.com"
+url:         ""
 timezone: Asia/Beijing
 
 # Google analytics
-google_analytics: 
+google_analytics:
 
 # Optional features
 animated:           false
@@ -17,18 +17,18 @@ show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: melodiezhang
+disqus_shortname:
 
 # Social icons
 show_social_icons: true
-github_username: melodiezhang
-dribbble_username: melodiezhang
+github_username:
+dribbble_username: 
 stackoverflow_id:
-twitter_username: melodiezhang
-linkedin_username: melodiezhang
-weibo_id: 1784081017 
+twitter_username:
+linkedin_username:
+weibo_id:
 instagram_username: melodiezhang
-behance_id: melodie728
+behance_id:
 
 
 # Build settings
