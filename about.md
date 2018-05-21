@@ -1,11 +1,10 @@
 ---
-layout: page
-title:
+layout: post
 permalink: /about/
 ---
 
 
 
-I am Menghan Zhang.
+I am Menghan.
 
 Think of nothing things, think of wind.  

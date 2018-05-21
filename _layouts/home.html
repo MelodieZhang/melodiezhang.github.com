@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="intro">
+    <p class="intro-title">Hi there, I'm nobody.</p>
+    <p class="intro-main">Currently I study xxx at yyy. Previously Product Designer at abcdefg.</p>
+  </div>
+</div>
+
+{% for post in paginator.posts %}
+
+<div class="container">
+  <div class="projects">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <div class="featured-project">
+        <h2>
+          <span>{{ post.title }}</span>
+        </h2>
+      </div>
+    </a>
+  </div>
+</div>
+
+{% endfor %}
+
+<div class="container">
+  <div class="sideprojects">
+    <h2 class="subsection">Passion Projects</h2>
+    <a href="http://instagram.com">
+      <div class="featured-sideproject" style="background-color:gray">
+        <h2>
+          <span>Foodie Doodle</span>
+        </h2>
+      </div>
+    </a>
+    <a href="http://instagram.com">
+      <div class="featured-sideproject" style="background-color:blue">
+        <h2>
+          <span>3D World</span>
+        </h2>
+      </div>
+    </a>
+  </div>
+</div>
+
+<div class="container">
+  <div class="articles">
+    <h2 class="subsection">Writings on design</h2>
+    <a href="http://medium.com">
+      <div class="featured-article">
+        <h2>
+          <span>Article 1</span>
+        </h2>
+        <p>this is a short introduction to the full article</p>
+      </div>
+    </a>
+    <a href="http://medium.com">
+      <div class="featured-article">
+        <h2>
+          <span>Article 2</span>
+        </h2>
+        <p>this is a short introduction to the full article</p>
+      </div>
+    </a>
+  </div>
+</div>
