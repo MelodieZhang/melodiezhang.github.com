@@ -9,9 +9,8 @@ layout: default
   </div>
 </div>
 
-{% for post in paginator.posts %}
-
 <div class="container">
+  {% for post in paginator.posts %}
   <div class="projects">
     <a href="{{ site.baseurl }}{{ post.url }}">
       <div class="featured-project">
@@ -21,9 +20,10 @@ layout: default
       </div>
     </a>
   </div>
+  {% endfor %}
 </div>
 
-{% endfor %}
+
 
 <div class="container">
   <div class="sideprojects">
