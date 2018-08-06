@@ -1,25 +1,26 @@
 .container {
   margin: 0 auto;
   max-width: 800px;
-  width: 80%;
-  padding: 40px 0;
+  width: 90%;
+  padding: 30px 0;
 }
 
 .intro {
   margin-top: 40px;
-  max-width:80%;
+  max-width:90%;
 
   .intro-title {
     font-size: 40px;
-    margin-bottom: 0;
-    color:$default-shade
+    margin-bottom: 12px;
+    line-height: 1.2;
+    color:$default-color;
   }
 
   .intro-main {
     margin-top: 0;
-    font-size: 18px;
-    font-weight: 300;
-    color: $grey-1
+    font-size: 20px;
+    line-height: 1.6;
+    color: $default-shade;
   }
 }
 
@@ -33,7 +34,6 @@ footer,
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
 
   &-container {
@@ -81,7 +81,7 @@ footer,
 
   a {
     color: $default-color;
-    font-family: $sans-serif;
+    font-family: $serif;
   }
 }
 

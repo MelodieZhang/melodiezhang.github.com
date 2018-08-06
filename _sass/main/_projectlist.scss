@@ -1,0 +1,21 @@
+.featured-project {
+  margin-bottom: 50px;
+
+  img {
+    margin-bottom: 20px;
+  }
+
+  .list-title {
+    font-size: 24px;
+    font-weight: 400;
+    color: $default-color;
+    margin: 5px 0;
+  }
+
+  .list-summary {
+    font-size: 18px;
+    color: $default-shade;
+    margin: 0;
+  }
+
+}
