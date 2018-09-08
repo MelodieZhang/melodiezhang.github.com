@@ -5,14 +5,14 @@
 
 html,
 body {
-  color: $default-color;
+  color: $default-shade;
   margin: 0;
   padding: 0;
 }
 
 html {
   font-family: $serif;
-  font-size: 14px;
+  font-size: 16px;
 
   @media (min-width: 600px) {
     font-size: 16px;
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $default-shade;
+  color: $default-color;
   font-family: $serif;
   line-height: normal;
 }
@@ -52,6 +52,18 @@ blockquote {
   @media (min-width: 600px) {
     padding: 0 5rem 0 1.25rem;
   }
+}
+
+ul {
+  margin: 0 0 2rem;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  text-align: justify;
+
+  li {
+    margin-bottom: 1rem;
+  }
+
 }
 
 img {

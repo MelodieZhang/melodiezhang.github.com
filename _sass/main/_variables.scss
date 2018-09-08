@@ -1,6 +1,6 @@
 // Colors
 $default-color: #222;
-$default-shade: #555;
+$default-shade: #444;
 $default-tint: #aaa;
 $grey-1: #979797;
 $grey-2: #e5e5e5;
@@ -12,7 +12,7 @@ $code-color: #bf616a;
 
 // Fonts
 $serif: 'Rubik', sans-serif;
-$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+$sans-serif: 'Rubik', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
 $monospaced: Menlo, Monaco, monospace;
 
 @mixin box-sizing($type: border-box) {

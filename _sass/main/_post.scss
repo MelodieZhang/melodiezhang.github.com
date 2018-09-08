@@ -1,5 +1,5 @@
 .post {
-  padding: 3rem 0;
+  padding: 0 0 3rem;
 
   &-info {
     color: $default-tint;
@@ -13,11 +13,12 @@
   }
 
   &-title {
-    color: $default-shade;
+    color: $default-color;
     font-family: $sans-serif;
-    font-size: 4rem;
-    margin: 1rem 0;
-    text-align: center;
+    font-size: 2.5rem;
+    font-weight:300;
+    margin: 4rem 0 2rem 0;
+    text-align: left;
   }
 
   &-line {
@@ -28,7 +29,9 @@
   }
 
   p {
-    margin: 0 0 1rem;
+    margin: 0 0 2rem;
+    font-size: 1.1rem;
+    line-height: 1.8;
     text-align: justify;
   }
 
