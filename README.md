@@ -1,3 +1,3 @@
-Personal page and blog of Melodie Zhang.
+Menghan's Design Portfolio
 
-Powered by [Jekyll](http://jekyllrb.com/) and based on the [Pixyll](http://www.pixyll.com) theme.
+Powered by [Jekyll](http://jekyllrb.com/)
