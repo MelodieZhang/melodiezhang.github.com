@@ -1,20 +1,20 @@
 .featured-project {
-  margin-bottom: 50px;
+  margin-bottom: 80px;
 
   img {
     margin-bottom: 20px;
   }
 
   .list-title {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
     color: $default-color;
     margin: 5px 0;
   }
 
   .list-summary {
-    font-size: 18px;
-    color: $default-shade;
+    font-size: 1.1rem;
+    color: $grey-1;
     margin: 0;
   }
 
