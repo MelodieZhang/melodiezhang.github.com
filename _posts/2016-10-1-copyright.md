@@ -7,4 +7,4 @@ summary: How might we raise the awareness of copyright to reduce unauthorized re
 
 Oh sorry! I'm still working on telling a good story about this project >0<
 
-This page will be ready by September 20, 2018.
+This page will be ready soon.
