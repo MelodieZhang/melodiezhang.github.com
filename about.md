@@ -3,7 +3,7 @@ layout: post
 permalink: /about/
 ---
 
-Hi, I'm Menghan Zhang, a master student studying [Integrated Innovation for Products & Services](https://www.cmu.edu/iii/degrees/miips/) at Carnegie Mellon University. Previously I worked as a full-time Product Designers at [Zhihu](zhihu.com) for 2 years. Before that, I got my bachelor and master of Software Engineering in Wuhan University.
+Hi, I'm Menghan Zhang, a master student studying [Integrated Innovation for Products & Services](https://www.cmu.edu/iii/degrees/miips/) at Carnegie Mellon University. Previously I worked as a full-time Product Designer at [Zhihu](zhihu.com) for 2 years. Before that, I got my bachelor and master of Software Engineering in Wuhan University.
 
 From my academic and professional experience, I learned that innovative solutions hit the sweet spot where viability, desirability and feasibility overlap. I also believe that design is to solve problems creatively.
 
