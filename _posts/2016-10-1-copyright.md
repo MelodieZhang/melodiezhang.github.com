@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Protect Copyright in Digital Age
+title:      Protecting Copyright in Digital Age
 feature-img: "/imgs/copyright/cover.jpg"
 summary: How might we raise the awareness of copyright to reduce unauthorized reprint?
 ---
