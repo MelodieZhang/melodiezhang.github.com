@@ -9,17 +9,19 @@
   max-width:90%;
 
   .intro-title {
-    font-size: 2rem;
+    font-size: 2.2rem;
     margin-top: 0;
     margin-bottom: 12px;
     line-height: 1.2;
+    font-weight: 500;
     color:$default-color;
+    letter-spacing: 0.06rem;
   }
 
   .intro-main {
     margin-top: 0;
     font-size: 1.2rem;
-    font-weight: Rubik-light;
+    font-weight: 400;
     line-height: 1.6;
     color: $default-shade;
   }
@@ -83,7 +85,7 @@ footer,
 
   a {
     color: $default-color;
-    font-family: $serif;
+    font-family: $sans-serif;
   }
 }
 
@@ -102,7 +104,7 @@ footer,
 }
 
 footer {
-  font-family: $serif;
+  font-family: $sans-serif;
   padding: 2rem 0;
   text-align: center;
 
