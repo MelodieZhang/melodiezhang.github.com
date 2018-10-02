@@ -3,15 +3,16 @@ layout: post
 permalink: /passion/
 ---
 
-I illustrate, write and create.
+# My Passion
+I illustrate, write, create, and code.
 
 ## I Illustrate
 ![image](/imgs/passion/illustration.jpg)
-Illustration allows me to blend the real world with the metaphorical. I use Photoshop and Procreate to draw whatever in my mind. Check more of my illustrations on **[Instagram](https://www.instagram.com/o_menghan_o/)**~
+Illustration allows me to blend the real world with the metaphorical. I use Photoshop and Procreate to draw whatever in my mind. Check more of my illustrations on **[Instagram](https://www.instagram.com/o_menghan_o/)**.
 
 ## I Write
 ![image](/imgs/passion/writing.jpg)
-I like to share my learnings and thinkings on product design. Writing is my best way to tell a story and reflect. I write on **[Medium](https://medium.com/@melodiezhang)** and **[Zhihu](https://www.zhihu.com/people/melodiezhang)**.
+I'm a believer of "write to think". I like to share my learning and thinking along the way. I write on **[Medium](https://medium.com/@melodiezhang)** and **[Zhihu](https://www.zhihu.com/people/melodiezhang)**.
 
 ## I Create
 ![image](/imgs/passion/dribbble.jpg)
@@ -19,4 +20,4 @@ In 2017, I collaborated with an engineer to create an Dribbble app for Android a
 
 ## I Code
 ![image](/imgs/passion/weather.jpg)
-In 2016, I learned Swift for iOS platform development and coded a simple weather app. The code is not that elegant and it's just kindergarten stuff for a qualified engineer, but here is the **[Github link](https://github.com/MelodieZhang/Swift-weather).** 😆
+2 years ago, I taught myself Swift for iOS platform development and made a simple **[weather app](https://github.com/MelodieZhang/Swift-weather)**. Should designers code? Why not! 😆
