@@ -3,7 +3,6 @@ layout: post
 permalink: /passion/
 ---
 
-# My Passion Project
 I illustrate, write and create.
 
 ## I Illustrate
