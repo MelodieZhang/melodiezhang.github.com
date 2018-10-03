@@ -1,9 +1,9 @@
 ---
 layout: post
 permalink: /passion/
+title: My Passion
 ---
 
-# My Passion
 I illustrate, write, create, and code.
 
 ## I Illustrate
