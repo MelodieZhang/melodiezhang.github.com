@@ -1,14 +1,14 @@
 # Site settings
-title:       Melodie
-email:       zhangmenghan728@gmail.com
+title:       Menghan Zhang · Product Designer
+email:       menghan@cmu.edu
 author:      Menghan Zhang
 description: "Menghan Zhang's Portfolio"
 baseurl:     ""
 url:         ""
-timezone: Asia/Beijing
+timezone: EST
 
 # Google analytics
-google_analytics:
+google_analytics: UA-127814315-1
 
 # Optional features
 animated:           false
@@ -22,14 +22,13 @@ disqus_shortname:
 # Social icons
 show_social_icons: true
 github_username:
-dribbble_username: 
+dribbble_username:
 stackoverflow_id:
 twitter_username:
 linkedin_username:
 weibo_id:
 instagram_username: melodiezhang
 behance_id:
-
 
 # Build settings
 permalink:    pretty

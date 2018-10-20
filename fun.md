@@ -1,14 +1,14 @@
 ---
 layout: post
-permalink: /passion/
-title: My Passion
+permalink: /fun/
+title: Fun Stuff & Side Projects
 ---
 
-I illustrate, write, create, and code.
+I doodle, write, create, and code.
 
-## I Illustrate
+## I Doodle
 ![image](/imgs/passion/illustration.jpg)
-Illustration allows me to blend the real world with the metaphorical. I use Photoshop and Procreate to draw whatever in my mind. Check more of my illustrations on **[Instagram](https://www.instagram.com/o_menghan_o/)**.
+Illustration allows me to blend the real world with the metaphorical. I use Photoshop and Procreate to doodle whatever in my mind. Check more of my illustrations on **[Instagram](https://www.instagram.com/o_mhmh_o/)**.
 
 ## I Write
 ![image](/imgs/passion/writing.jpg)

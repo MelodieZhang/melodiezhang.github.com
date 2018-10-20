@@ -13,3 +13,5 @@ When I'm not designing, I like to:
 - ✍🏻 Write to empty my brain and (hopefully) inspire others.
 - 📖 Grab a book but struggle to finish it.
 - 😆 Find new hobbies to obsess over, then discard shortly after.
+
+### Contact me: **menghan@cmu.edu**

@@ -12,7 +12,7 @@ Starting from 2015, more and more cases emerged that people took the content cre
 I was responsible for all UI/UX design and prototyping, and brainstormed the idea with my mentor, a front-end engineer and a product manager.
 
 ## Getting Insights from Authors
-I started by empathizing with authors. From guerrilla interviews at the office, I learned how people suffered from copyright infringement on the Internet, and how their contents were taken without permission.
+I started with empathizing with authors. From guerrilla interviews at the office, I learned how people suffered from copyright infringement on the Internet, and how their contents were taken without permission.
 
 Insights:
 - For most of the time, people didn't hate reproduction **as long as appropriate credits were given to the author**.
@@ -34,14 +34,12 @@ The solution could work, but on second thought, it had two major problems:
 - **Easy to be ignored.** Either putting before or after the main text, It is out of sight when the text is long.
 - The addition of this new element was on the expense of **interface complexity**.
 
-Are there any better solutions?
-
 ### A New Angle
 To gather more inputs and avoid being limited by the "easiest solution", I brainstormed with my colleagues. Throughout the discussion, I realized the existing solution lacked a direct connection between copyright declaration and reproduction action, which was exactly the reason why it was not very effective. So when is the perfect moment to deliver the copyright information?
 
 With a simple click of the ‘copy’ button, text can be transferred with no effort. People rarely think about copying and pasting words and utilizing them for their own use.
 
-> **How about we intervene the flow of "copy" even before "paste" happens?**
+> How about we intervene the flow of "copy" even before "paste" happens?
 
 ![image](/imgs/copyright/flow.jpg)
 
@@ -50,9 +48,11 @@ Having decided when to show the information, my next challenge was how to delive
 
 ![image](/imgs/copyright/style_iterations.jpg)
 
+## Final Design
+
+![image](/imgs/copyright/final_design.gif)
+
 ## Positive Feedback and Much More to Do
 In January 2016, we launched the feature and it received positive feedback from users. The rate of manually marking copyright information in content decreased by 16%.
 
-I also co-wrote an article with our product manager to share our thinking behind the scene:  **[Respecting copyright: Contact me for permission before reproducing my content](https://zhuanlan.zhihu.com/p/20135322?columnSlug=zhihu-product)**, and received a lot of positive and constructive feedback on this feature:
-
-![image](/imgs/copyright/feedback.jpg)
+I also co-wrote an article with our product manager to share our thinking behind the scene:  **[Respecting copyright: Contact me for permission before reproducing my content](https://zhuanlan.zhihu.com/p/20135322?columnSlug=zhihu-product)**, and received a lot of positive and constructive feedback.
