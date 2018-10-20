@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: default
 permalink: /fun/
-title: Fun Stuff & Side Projects
 ---
 
+# Fun Stuff / Side Projects
 I doodle, write, create, and code.
 
 ## I Doodle
