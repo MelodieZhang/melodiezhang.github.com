@@ -108,3 +108,30 @@ footer {
     font-size: 0.92rem;
   }
 }
+
+.section-nav {
+  margin: 5px 0;
+  padding: 10px 24px;
+  border-radius: 3px;
+  position: fixed;
+  left: 0px;
+  top: 200px;
+
+  li {
+    list-style-type: none;
+    margin-bottom: 0rem;
+    line-height: 1rem;
+  }
+
+  li a {
+    font-size: 0.8rem;
+    color: $default-tint;
+    font-weight: 200;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .section-nav {
+    display: none;
+  }
+}
