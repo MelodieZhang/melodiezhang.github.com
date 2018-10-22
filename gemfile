@@ -1,6 +1,0 @@
-source 'http://rubygems.org'
-
-gem 'jekyll-toc'
-gem 'kramdown'
-gem 'jekyll-watch'
-gem 'jekyll-paginate'

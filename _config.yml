@@ -30,11 +30,6 @@ weibo_id:
 instagram_username: melodiezhang
 behance_id:
 
-# toc
-toc:
-  min_level: 2
-  max_level: 2
-
 # Build settings
 permalink:    pretty
 paginate:     5
@@ -43,4 +38,5 @@ sass:
   compressed: true
 plugins:
   - jekyll-paginate
-  - jekyll-toc
+  - jekyll-sitemap
+  - jekyll-feed

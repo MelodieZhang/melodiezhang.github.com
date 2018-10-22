@@ -3,7 +3,6 @@ layout:     post
 title:      Protecting Copyright in an Innovative Way
 feature-img: "/imgs/copyright/cover.jpg"
 summary: How I pushed myself from an obvious solution to a more effective one
-toc: true
 ---
 ## Problem Space
 Starting from 2015, more and more cases emerged that people took the content created by Zhihu users to other platforms without asking for original authors' permission. The goal of this project was to intervene these increasing copyright infringement. The design problem is:
