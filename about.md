@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /about/
+title: About
 feature-img: "/imgs/common/photo.jpg"
 ---
 
