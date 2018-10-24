@@ -39,12 +39,12 @@ To gather more inputs and avoid being limited by the "easiest solution", I brain
 
 With a simple click of the ‘copy’ button, text can be transferred with no effort. People rarely think about copying and pasting words and utilizing them for their own use.
 
-> How about we intervene the flow of "copy" even before "paste" happens?
+> **How about we intervene the flow of "copy" even before "paste" happens?**
 
 ![image](/imgs/copyright/flow.jpg)
 
 ### Iterating on the Tone
-Having decided when to show the information, my next challenge was how to deliver the copyright message. I worked on a bunch of iterations to explore the best tone. Based on feedback, I chose the solution of combining author avatar and positive heads-up from the first person view, which helped create a friendly vibe and make "people" stand out from the content.
+Having decided when to show the information, my next challenge was how to deliver the copyright message. I worked on a bunch of iterations to explore the best tone. Based on feedback, I chose the solution of combining author avatar and positive heads-up from the first person view, which helped create a friendly vibe and **make "people" stand out** from the content.
 
 ![image](/imgs/copyright/style_iterations.jpg)
 
@@ -53,6 +53,6 @@ Having decided when to show the information, my next challenge was how to delive
 ![image](/imgs/copyright/final_design.gif)
 
 ## Positive Results
-In January 2016, we launched the feature and it received positive feedback from users. The rate of manually marking copyright information in content decreased by 16%.
+In January 2016, we launched the feature and it received **positive feedback** from users. The rate of manually marking copyright information in content decreased by **16%**.
 
 I also co-wrote an article with our product manager to share our thinking behind the scene:  **[Respecting copyright: Contact me for permission before reproducing my content](https://zhuanlan.zhihu.com/p/20135322?columnSlug=zhihu-product)**, and received a lot of positive and constructive feedback.
