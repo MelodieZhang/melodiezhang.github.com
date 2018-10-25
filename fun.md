@@ -12,7 +12,7 @@ Illustration allows me to blend the real world with the metaphorical. I use Phot
 
 ## I Write
 ![image](/imgs/passion/writing.jpg)
-I'm a believer of "write to think". I like to share my learning and thinking along the way. I write on **[Medium](https://medium.com/@melodiezhang)** and **[Zhihu](https://www.zhihu.com/people/melodiezhang)**.
+I'm a believer of "write to think". I like to share my learning and thinking along the way. I write on **[Medium](https://medium.com/@melodiezhang)** and **[Zhihu](https://zhuanlan.zhihu.com/melodie)**.
 
 ## I Create
 ![image](/imgs/passion/dribbble.jpg)
