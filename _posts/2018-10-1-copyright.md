@@ -17,7 +17,7 @@ I started with empathizing with authors. From guerrilla interviews at the office
 Insights:
 - For most of the time, people didn't hate reproduction **as long as appropriate credits were given to the author**.
 - Part of copyright infringement were **unintentional actions**. People who had taken the content were not aware that they needed to ask for permission in advance. In this case, if the author asks them to add credits or remove the content, they would obey.
-- **Authors would use roundabouts** to declare copyright, like putting the bold black statements ending with multiple exclamation points to the start or end of their content.
+- **Authors would use workarounds** to declare copyright, like putting the bold black statements ending with multiple exclamation points to the start or end of their content.
 
 ## Refining the Problem
 Based on my learnings, I found that authors expected their work and efforts to be respected and wanted a way to support their standpoint. Meanwhile, many offenders had little awareness of copyright and sometimes they copied and pasted without noticing they were offending the original author. We decided to refine the problem to focus on this specific aspect:
@@ -26,7 +26,7 @@ Based on my learnings, I found that authors expected their work and efforts to b
 
 ## Finding Solutions
 ### First Iterations Inspired by the Community
-Inspired by the existing roundabouts used by people, I was thinking if we could productize the existing form people used, **adding standard copyright declarations** for users instead of they typing it manually. Here are some explorations on this idea.
+Inspired by the existing workarounds used by people, I was thinking if we could productize the existing form people used, **adding standard copyright declarations** for users instead of they typing it manually. Here are some explorations on this idea.
 
 ![image](/imgs/copyright/first_iteration.jpg)
 
