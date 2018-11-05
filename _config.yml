@@ -36,7 +36,11 @@ paginate:     5
 paginate_path: "/page:num/"
 sass:
   compressed: true
+toc:
+  min_level: 2 # default: 1
+  max_level: 2 # default: 6
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-toc

@@ -3,7 +3,9 @@ layout:     post
 title:      Protecting Copyright in an Innovative Way
 feature-img: "/imgs/copyright/cover2.jpg"
 summary: How I pushed myself from an obvious solution to a more effective one
+toc: true
 ---
+
 ## Problem Space
 Starting from 2015, more and more cases emerged that people took the content created by Zhihu users to other platforms without asking for original authors' permission. The goal of this project was to intervene these increasing copyright infringement. The design problem is:
 > **How might we protect authors' copyright to decrease unauthorized reproduction?**
@@ -11,7 +13,7 @@ Starting from 2015, more and more cases emerged that people took the content cre
 ## My Role
 I was responsible for all UI/UX design and prototyping, and brainstormed the idea with my mentor, a front-end engineer and a product manager.
 
-## Getting Insights from Authors
+## Getting Insights from Users
 I started with empathizing with authors. From guerrilla interviews at the office, I learned how people suffered from copyright infringement on the Internet, and how their contents were taken without permission.
 
 Insights:
@@ -52,7 +54,7 @@ Having decided when to show the information, my next challenge was how to delive
 
 ![image](/imgs/copyright/final_design.gif)
 
-## Positive Results
+## The Results
 In January 2016, we launched the feature and it received **positive feedback** from users. The rate of manually marking copyright information in content decreased by **16%**.
 
 I also co-wrote an article with our product manager to share our thinking behind the scene:  **[Respecting copyright: Contact me for permission before reproducing my content](https://zhuanlan.zhihu.com/p/20135322?columnSlug=zhihu-product)**, and received a lot of positive and constructive feedback.
