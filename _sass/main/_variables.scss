@@ -1,6 +1,6 @@
 // Colors
 $default-color: #111;
-$default-shade: #333;
+$default-shade: #444;
 $default-tint: #aaa;
 $grey-1: #979797;
 $grey-2: #e5e5e5;
@@ -13,7 +13,7 @@ $shadow-color: rgba(0, 0, 0, .2);
 $code-color: #bf616a;
 
 // Fonts
-$sans-serif: "sofia-pro", -apple-system, BlinkMacSystemFont, Helvetica Neue, Noto Sans CJK SC, sans-serif;
+$sans-serif: Rubik, -apple-system, BlinkMacSystemFont, Helvetica Neue, Noto Sans CJK SC, sans-serif;
 $monospaced: Menlo, Monaco, monospace;
 
 @mixin box-sizing($type: border-box) {
