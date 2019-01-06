@@ -57,4 +57,4 @@ Having decided when to show the information, my next challenge was how to delive
 ## The Results
 In January 2016, we launched the feature and it received **positive feedback** from users. The rate of manually marking copyright information in content decreased by **16%**.
 
-I also co-wrote an article with our product manager to share our thinking behind the scene:  **[Respecting copyright: Contact me for permission before reproducing my content](https://zhuanlan.zhihu.com/p/20135322?columnSlug=zhihu-product)**, and received a lot of positive and constructive feedback.
+I also co-wrote an article with our product manager to share our thinking behind the scene:  [Respecting copyright: Contact me for permission before reproducing my content](https://zhuanlan.zhihu.com/p/20135322?columnSlug=zhihu-product), and received a lot of positive and constructive feedback.
