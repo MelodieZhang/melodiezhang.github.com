@@ -98,7 +98,11 @@ td {
 }
 
 hr {
-  background-color: $grey-3;
+  width: 20%;
+  height: 1px;
+  border: none;
+  background-color: $default-tint;
+  margin: 60px auto;
 }
 
 strong {
