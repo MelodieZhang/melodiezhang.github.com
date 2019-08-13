@@ -8,7 +8,7 @@ I doodle, write, and code.
 
 ## I Doodle
 ![image](/imgs/passion/illustration.jpg)
-Illustration allows me to blend the real world with the metaphorical. I use Photoshop and Procreate to doodle whatever in my mind. Check more of my illustrations on **[Instagram](https://www.instagram.com/o_mhmh_o/)**.
+Illustration allows me to blend the real world with the metaphorical. I use Photoshop and Procreate to doodle whatever in my mind. Check more of my illustrations on **[Instagram](https://www.instagram.com/menghan.jpg/)**.
 
 ## I Write
 ![image](/imgs/passion/writing.jpg)
