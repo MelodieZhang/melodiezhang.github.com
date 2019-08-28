@@ -1,6 +1,6 @@
 # Site settings
 title:       Menghan Zhang
-email:       menghan@cmu.edu
+email:       zhangmenghan728@gmail.com
 author:      Menghan Zhang
 description: "Menghan Zhang's Portfolio"
 baseurl:     ""
@@ -27,7 +27,7 @@ stackoverflow_id:
 twitter_username:
 linkedin_username:
 weibo_id:
-instagram_username: melodiezhang
+instagram_username:
 behance_id:
 
 # Build settings
