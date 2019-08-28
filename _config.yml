@@ -31,7 +31,7 @@ instagram_username: melodiezhang
 behance_id:
 
 # Build settings
-permalink:    pretty
+permalink:    /blog/:title
 paginate:     5
 paginate_path: "/page:num/"
 sass:
