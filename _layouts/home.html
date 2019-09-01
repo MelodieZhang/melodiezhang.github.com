@@ -10,19 +10,18 @@ layout: default
 </div>
 
 <div class="container">
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts%}
   <div class="projects">
     <a href="{{ site.baseurl }}{{ post.url }}">
       <div class="featured-project">
         <img src="{{ post.feature-img }}">
         <p class="list-title">{{ post.title }}</p>
-        <p class="list-summary">{{ post.summary }}</span>
+        <p class="list-summary">{{ post.summary }}</p>
       </div>
     </a>
   </div>
   {% endfor %}
 </div>
-
 
 <!--
 <div class="container">
