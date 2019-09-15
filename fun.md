@@ -1,20 +1,20 @@
 ---
-layout: default
+layout: post
 permalink: /fun/
 ---
 
-# Fun Stuff / Side Projects
-I doodle, write, and code.
+# Fun Stuff
+What I do when I'm not designing?
 
 ## I Doodle
-![image](/imgs/passion/illustration.jpg)
-Illustration allows me to blend the real world with the metaphorical. I use Photoshop and Procreate to doodle whatever in my mind. Check more of my illustrations on **[Instagram](https://www.instagram.com/menghan.jpg/)**.
+Illustration allows me to blend the real world with the metaphorical. I use Photoshop and Procreate to doodle whatever in my mind.
+<a href="https://www.instagram.com/menghan.jpg/" target="_blank"><image src="/imgs/passion/illustration.jpg">
 
 ## I Write
-![image](/imgs/passion/writing.jpg)
-I'm a believer of "write to think". I like to share my learning and thinking along the way. I write on **[Medium](https://medium.com/@melodiezhang)** and **[Zhihu](https://zhuanlan.zhihu.com/melodie)**.
+There are many ways to learn. Design is one, writing is another.
+<a href="https://medium.com/@melodiezhang" target="_blank"><image src="/imgs/passion/writing.jpg">
 
 
 ## I Code
-![image](/imgs/passion/weather.jpg)
-2 years ago, I taught myself Swift for iOS platform development and made a simple **[weather app](https://github.com/MelodieZhang/Swift-weather)**. Should designers code? Why not! 😆
+Coding is another form of design and creation. Two years ago, I taught myself Swift for iOS platform development and made a simple weather app. Should designers code? Why not!
+<a href="https://github.com/MelodieZhang/Swift-weather" target="_blank"><image src="/imgs/passion/weather.jpg">
