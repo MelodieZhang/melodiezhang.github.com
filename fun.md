@@ -3,7 +3,7 @@ layout: post
 permalink: /fun/
 ---
 
-# Fun Stuff
+
 What I do when I'm not designing?
 
 ## I Doodle
