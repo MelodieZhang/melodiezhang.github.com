@@ -1,9 +1,8 @@
 ---
 layout: post
 permalink: /about/
-title: About
-feature-img: "/imgs/common/photo.jpg"
 ---
+![image](/imgs/common/photo.jpg)
 
 Hi, I'm Menghan Zhang *[MENG-hahn, ZHANG]*, a master student studying Integrated Innovation for Products & Services at [Carnegie Mellon University](https://www.cmu.edu/iii/degrees/miips/). Previously I worked as a full-time Product Designer at [Zhihu](zhihu.com) for 2 years. Before that, I got my bachelor and master of Software Engineering in Wuhan University. (<strong><a href="https://drive.google.com/open?id=1gbvNpAypowKjFPplD2dlE7VOfnfTlZmQ" target="_blank">Check my resume</a></strong>)
 
