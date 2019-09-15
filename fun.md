@@ -7,7 +7,7 @@ permalink: /fun/
 What I do when I'm not designing?
 
 ## I Doodle
-Illustration allows me to blend the real world with the metaphorical. I use Photoshop and Procreate to doodle whatever in my mind.
+Illustration allows me to blend the real world with the metaphorical.
 <a href="https://www.instagram.com/menghan.jpg/" target="_blank"><image src="/imgs/passion/illustration.jpg">
 
 ## I Write
