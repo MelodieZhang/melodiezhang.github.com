@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Google Design Exercise
+title: Joining Student Organizations
 feature-img: "/imgs/google/cover.jpg"
-summary: Cross-platform design from ideation to launch
-hidden: true
+summary: 7-day design sprint from ideation to solution
 ---
-# The Prompt
-> A new school year is approaching. Design an experience for **new students** to **browse, search, and propose** new student organizations.
+# Background
+Earlier this year, I was challenged to design an experience for new college students to discover and engage in student organizations. Within 7 days, I designed and delivered a digital experience to help students browse, search, and propose student organizations.
 
 ### Initial Thoughts
 Joining student organizations is one of the most exciting things when new student steps into university, and it has many benefits like making new friends and developing soft skills. As a student, I had some personal experience joining student orgs in the past, so I started off with thinking about what I know and what I don't know about this topic.
@@ -69,6 +68,7 @@ Then I started by sketching out to explore what the app might look like in order
 
 ### High Fidelity prototypes
 I used Material Design to create higher fidelity prototypes, because it can be universally **applied across platforms and devices**. Since the target users are students, I used **vibrant color and bold aesthetic** to reflect the excitement of finding and joining a new organization, immerse users in the experience.
+![image](/imgs/google/hi-fi.jpg)
 <iframe width="820" height="500" src="https://www.youtube.com/embed/XhIGl9DggRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How to Measure Success
