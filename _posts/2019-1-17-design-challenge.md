@@ -3,6 +3,7 @@ layout: post
 title: Joining Student Organizations
 feature-img: "/imgs/google/cover.jpg"
 summary: 7-day design sprint from ideation to solution
+hidden: true
 ---
 # Background
 Earlier this year, I was challenged to design an experience for new college students to discover and engage in student organizations. Within 7 days, I designed and delivered a digital experience to help students browse, search, and propose student organizations.
