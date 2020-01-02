@@ -3,6 +3,7 @@ layout: post
 title: Staying Connected with Pixel Away
 feature-img: "/imgs/pixelaway/cover.jpg"
 summary: Designing social objects to connect friends and couples in a subtle and fun way
+hidden: true
 ---
 
 For years, technology has empowered new forms of human connections such as smartphones and SMS, which have radically transformed when, where, and how we would reach out to people. While the Internet of Things is often known for sensors, hardware, and functional utility, it also creates new opportunities to enrich human experience; to not just connect objects, devices and things to one another but to help us better connect with the people in our lives.
