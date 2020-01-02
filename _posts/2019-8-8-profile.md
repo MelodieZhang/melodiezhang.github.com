@@ -2,7 +2,7 @@
 layout: post
 title: Redesigning Zhihu Profile for Millions
 feature-img: "/imgs/profile/cover3.jpg"
-summary: How I led the design and increased profile follow rate by 28%
+summary: Designing for discovery, understanding, and connecting
 ---
 ## Background
 <a href="https://www.zhihu.com/" target="_blank">Zhihu</a>
