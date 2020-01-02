@@ -1,19 +1,20 @@
 ---
 layout: post
 permalink: /about/
+title: About
 ---
 
+Hi, I'm Menghan Zhang, a multi-disciplinary product designer passionate about solving problems for people. I graduated from Carnegie Mellon University and Wuhan University. Previously I interned at Google and worked as full-time Product Designer at Zhihu.
+
+When I'm not designing, I like to:
+- ✍🏻 Write to empty my brain and hopefully inspire others.
+- 📖 Grab a book while struggle to finish it.
+- 🍱 Try new recipes and snap a picture before the first bite.
+- 😆 Find new hobbies to obsess over, then discard shortly after.
+
+Get in touch: **zhangmenghan728@gmail.com**
+
+[Linkedin](https://www.linkedin.com/in/menghan-zhang) · [Medium](https://medium.com/@menghanzhang) · [Twitter](https://twitter.com/melodiezhang)
 
 ![image](/imgs/common/photo.jpg)
 
-Hi, I'm Menghan *[MENG-hahn]*, a multi-disciplinary product designer passionate about solving problems for people through design. I'm graduating from Carnegie Mellon University and currently seeking full-time design opportunities starting in 2020. Previously I interned at Google and worked a full-time Product Designer at Zhihu for 2 years. (<strong><a href="https://drive.google.com/open?id=1gbvNpAypowKjFPplD2dlE7VOfnfTlZmQ" target="_blank">Check my resume</a></strong>)
-
-From my academic and professional experience, I learned that innovative solutions hit the sweet spot where viability, desirability and feasibility overlap. For me, design is about solving the right problems, making intentional decisions, measuring the results and keeping iterating and learning.
-
-When I'm not designing, I like to:
-- 🍱 Try new recipes and snap a picture before the first bite.
-- ✍🏻 Write to empty my brain and (hopefully) inspire others.
-- 📖 Grab a book but struggle to finish it.
-- 😆 Find new hobbies to obsess over, then discard shortly after.
-
-Contact me: **zhangmenghan728@gmail.com**
