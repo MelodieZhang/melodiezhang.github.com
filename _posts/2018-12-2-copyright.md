@@ -2,7 +2,6 @@
 layout:     post
 title:      Protecting Copyright in an Innovative Way
 feature-img: "/imgs/copyright/cover2.jpg"
-summary: How I pushed myself from an obvious solution to a more effective one
 toc: true
 ---
 
